@@ -1,4 +1,4 @@
-Yarn template package
-=====================
+BRJ Global context
+==================
 
-This is sample Yarn package.
+This package provides the basic application context and environment for BRJ applications.
